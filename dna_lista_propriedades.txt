@@ -1,0 +1,102 @@
+﻿ANIMAL				PARTE			VIDA	ATAQUE	DEFESA	ASAS
+-------------------------------------------------------------------------------------
+LOBO			BRAÇO ESQ				01
+			BRAÇO DIR				01
+			CABEÇA					03
+			CORPO				18
+			PERNAS
+URSO			BRAÇO ESQ				04
+			BRAÇO DIR				04
+			CABEÇA					03
+			CORPO				25
+			PERNAS
+URSO POLAR		BRAÇO ESQ				04
+			BRAÇO DIR				04
+			CABEÇA					03
+			CORPO				25
+			PERNAS
+LEÃO			BRAÇO ESQ				02
+			BRAÇO DIR				02
+			CABEÇA					03
+			CORPO				20
+			PERNAS
+TIGRE			BRAÇO ESQ				02
+			BRAÇO DIR				02
+			CABEÇA					03
+			CORPO				20
+			PERNAS
+ONÇA			BRAÇO ESQ				01
+			BRAÇO DIR				01
+			CABEÇA					03
+			CORPO				18
+			PERNAS
+PORCO ESPINHO		BRAÇO ESQ				02
+			BRAÇO DIR				02
+			CABEÇA					02
+			CORPO				10	05
+TATU			CORPO				10			10
+GORILA			BRAÇO ESQ				03
+			BRAÇO DIR				03
+			CABEÇA					02
+			CORPO				25
+			PERNAS
+GAMBA			CALDA
+ALCE			BRAÇO ESQ
+			BRAÇO DIR
+			CABEÇA					02
+			CORPO				20
+			PERNAS
+RINOCERONTE		CABEÇA					02
+			CORPO				35				
+TOURO			CABEÇA					02
+			CORPO				30
+CANGURU			PERNAS					01
+			RABO
+ÁGUIA			CORPO				10
+			PERNAS					01
+			ASAS
+CORUJA			CORPO				10
+			PERNAS					01
+			ASAS
+FALCÃO			CORPO					10
+			PERNAS					01
+			ASAS
+MORCEGO			CABEÇA					01
+			ASAS
+AVESTRUZ		CORPO				15
+			PERNAS
+FORMIGA			BRAÇO ESQ
+			BRAÇO DIR
+			(BRAÇOS NA MESMA IMAGEM)
+			CABEÇA					02
+ESCORPIÃO		BRAÇO ESQ
+			BRAÇO DIR
+			CALDA					01
+ARANHA			CABEÇA					02
+LIBÉLULA		ASAS
+GRILO			PERNAS
+VESPA			RABO (FERRÃO)				02
+ABELHA			CABEÇA
+			CORPO				05
+			RABO (FERRÃO)				02
+LAGARTO			CORPO				10
+			PERNAS
+			CALDA					02
+COBRA			CABEÇA					02
+TARTARUGA		CORPO				10			15
+JACARÉ			CABEÇA					03
+			CORPO				20
+			CALDA					01
+SAPO			CABEÇA
+			PERNAS
+CACTUS			BRAÇO ESQ				02
+			BRAÇO DIR				02
+			CORPO				10		10
+PLANTA CARNÍVORA	CABEÇA					03
+PLANTA ESPINHOSA	BRAÇO ESQ				02
+			BRAÇO DIR				02
+FLOR			BRAÇO ESQ
+			BRAÇO DIR
+ÁRVORE			BRAÇO ESQ					03
+			BRAÇO DIR					03
+			CORPO+PERNA			45
